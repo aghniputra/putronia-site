@@ -1,0 +1,14 @@
+{
+    "members": [
+    {
+        "id": 1,
+        "name": "Putro Satrio Wibowo",
+        "description":"I am highly experienced in backend development. Currently working full-time in a place that I dislike the most."
+    },
+    {
+        "id": 2,
+        "name": "Aghnia Putri Ramadhani",
+        "description": "I am useless and cannot do anything and cannot be trusted with anything rather than breathing."
+    }
+    ]
+}

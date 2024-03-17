@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+  .Title {
+    @apply font-Montserrat text-Title font-bold;
+  }
+
+  .Subtitle {
+    @apply font-Montserrat text-Subtitle font-thin;
+  }
+
+  .Heading1 {
+    @apply font-Montserrat text-Heading1 font-bold uppercase;
+  }
+
+  .Heading2 {
+    @apply font-Montserrat text-Heading2 font-bold;
+  }
+
+  .Menu {
+    @apply font-Montserrat text-Menu uppercase;
+  }
+
+  .Body {
+    @apply font-Montserrat text-Body;
+  }
+
+  .Backtext {
+    @apply font-Inter text-Backtext;
+  }
+}
